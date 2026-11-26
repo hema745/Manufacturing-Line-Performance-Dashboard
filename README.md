@@ -56,7 +56,6 @@ Cross-checked the model against an independent calculation: 38 batches, 3,858 ac
 ```
 /Manufacturing_Line_Dashboard.pbix
 /Manufacturing_Line_Productivity.xlsx
-/Clean_Light_Theme.json
 /images/dashboard.png
 /icons/
 ```
