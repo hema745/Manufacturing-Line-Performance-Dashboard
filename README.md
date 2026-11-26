@@ -65,4 +65,4 @@ Cross-checked the model against an independent calculation: 38 batches, 3,858 ac
 Power BI Desktop, Power Query, DAX
 
 ## Author
-Your Name | [LinkedIn](https://www.linkedin.com/in/your-profile)
+Your baddam hemachandra reddy | [LinkedIn](https://www.linkedin.com/in/hemachandra45/)
